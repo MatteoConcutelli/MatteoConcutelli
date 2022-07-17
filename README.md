@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MatteoConcutelli
+- 👀 I’m interested in computer science
+- 🌱 I’m currently attending Tor Vergata university
