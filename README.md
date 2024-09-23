@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MatteoConcutelli
 - 👀 I’m interested in computer science
-- 🌱 I am currently attending the university of Tor Vergata
+- 🌱 I am currently attending the university of Sapienza: Cybersecurity
